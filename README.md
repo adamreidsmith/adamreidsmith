@@ -16,7 +16,6 @@ I'm a recent **MSc graduate** in Geomatics Engineering from the University of Ca
     * Familiar with MATLAB, LaTeX
     * Some experience with Mojo, C++, JavaScript, HTML, CSS
 * 🌱 Learning:
-    * 💻 Lisp & functional programming
     * 🔥 Mojo
     * 🔢 Tensor networks
 * 📆 Hobbies:
